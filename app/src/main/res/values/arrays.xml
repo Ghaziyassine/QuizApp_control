@@ -1,0 +1,63 @@
+<resources>
+    <string-array name="questions">
+        <item>A cette intersection, je laisse la priorité à droite :</item>        <!-- Question 1 -->
+        <item>Le panneau de danger indique une succession de virages dont le 1er est :</item>        <!-- Question 2 -->
+        <item>Avant de partir, je laisse tourner mon moteur pour qu il monte en température :</item>        <!-- Question 3 -->
+        <item>En tant qu automobiliste, vous devez être plus vigilant lorsque :</item>        <!-- Question 4 -->
+        <item>En conduisant, je peux utiliser mon portable pour écrire un texto ou composer un numéro :"</item>        <!-- Question 5 -->
+
+        <!-- Add more questions as needed -->
+    </string-array>
+
+    <array name="options1">
+        <item>Oui</item>
+        <item>Non</item>
+
+    </array>
+
+    <array name="options2">
+        <item>À droite</item>
+        <item>À gauche</item>
+
+    </array>
+
+    <array name="options3">
+        <item>Oui</item>
+        <item>Nom</item>
+    </array>
+
+    <array name="options4">
+        <item>Le tramway est arrêté</item>
+        <item>Le tramway circule</item>
+
+    </array>
+    <array name="options5">
+        <item>Oui</item>
+        <item>Non</item>
+
+    </array>
+
+    <!-- Add more option arrays as needed -->
+
+    <integer-array name="answers">
+        <item>1</item> <!-- Index of correct answer for Question 1 -->
+        <item>1</item> <!-- Index of correct answer for Question 2 -->
+        <item>0</item> <!-- Index of correct answer for Question 3 -->
+        <item>1</item> <!-- Index of correct answer for Question 4 -->
+        <item>1</item> <!-- Index of correct answer for Question 5 -->
+
+        <!-- Add more correct answers as needed -->
+    </integer-array>
+
+
+    <!-- Image names for questions -->
+    <string-array name="image_names">
+        <item>q1</item>
+        <item>q2</item>
+        <item>q3</item>
+        <item>q4</item>
+        <item>q5</item>
+
+        <!-- Add more image names as needed -->
+    </string-array>
+</resources>

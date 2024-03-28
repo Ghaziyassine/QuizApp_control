@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QuizApp_GHAZI</string>
+    <string name="question_number">Question %1$d/%2$d</string>
+
+</resources>
